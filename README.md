@@ -8,3 +8,10 @@ VueJs:
 3. compact
 4. fast
 5. versatility, works really well for small jobs you could use jquery for
+
+Using an Udemy Tutorial, I proceed to learn jeez.
+
+//Directives
+//
+
+
